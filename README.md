@@ -3,10 +3,14 @@
 #Creating cool website pages....!!!
 
 
-************************************************************** This is my First WEB PAGE CREATION **********************************************************************
+********************************************************* This is my First WEB PAGE CREATION ********************************************************
 
 
-I have used only Html and Css....!!!
+Lnagauage used :- HTML and CSS
+
+I have created only the front page of a website with help of 'Html' and also use a external CSS sheet for styling my web page...!!!
+I have used div tag , header tag , li tag , ul tag ...!!
+I have used my beginner knownledge to develop this web-page..!!!
 
 
 You can visit website with this link :- 
