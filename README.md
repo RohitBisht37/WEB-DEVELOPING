@@ -2,8 +2,7 @@
 
 #Creating cool website pages....!!!
 
-
-********************************************************* This is my First WEB PAGE CREATION ********************************************************
+********************************************* This is my First WEB PAGE CREATION ********************************************************
 
 
 Lnagauage used :- HTML and CSS
